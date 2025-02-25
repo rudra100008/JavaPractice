@@ -3,7 +3,6 @@ class ABC extends Thread{
     @Override
     public void run() {
         threadToInterrupt.interrupt();
-        System.out.println("a");
     }
 }
 public  class ThreadJoinPractice1 {
@@ -14,7 +13,7 @@ public  class ThreadJoinPractice1 {
             th.start();
             th.join();
         }catch (InterruptedException e){
-            System.out.println(e.getMessage());
+            System.out.println("The exception has being caught:\n"+ e.getMessage());
         }
     }
 }

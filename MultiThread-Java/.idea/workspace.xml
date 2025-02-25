@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a698e81-97c6-444a-b336-9486e3cfc9a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread-Java/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread-Java/ABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThread-Java/ThreadJoinPractice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MultiThread-Java/ThreadJoinPractice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadJoinPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadJoinPractice1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rudra100008"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rudra100008&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rudra100008/JavaPractice.git",
-    "accountId": "82908c99-fb05-47f6-92fa-8847af41dac5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rudra100008/JavaPractice.git&quot;,
+    &quot;accountId&quot;: &quot;82908c99-fb05-47f6-92fa-8847af41dac5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -48,9 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ThreadJoinPractice1.executor": "Run",
     "Application.ThreadPractice1.executor": "Run",
     "Application.ThreadPractice2.executor": "Run",
     "Application.ThreadPractice3.executor": "Run",
+    "Application.ThreadPractice4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -59,7 +63,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ThreadJoinPractice1">
+  <component name="RunManager" selected="Application.ThreadPractice4">
     <configuration name="ThreadJoinPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadJoinPractice1" />
       <module name="MultiThread-Java" />
@@ -88,8 +92,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadPractice4" />
+      <module name="MultiThread-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPractice4" />
         <item itemvalue="Application.ThreadJoinPractice1" />
         <item itemvalue="Application.ThreadPractice3" />
         <item itemvalue="Application.ThreadPractice2" />
